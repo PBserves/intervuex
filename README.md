@@ -1,4 +1,4 @@
-<h1 align="center">✨ Full-Stack Interview Platform ✨</h1>
+<h1 align="center">✨ Live Coding and Video-conferencing Interview Platform ✨</h1>
 
 
 
@@ -18,9 +18,7 @@
 - 🧠 Background Jobs with Inngest (async tasks)
 - 🧰 REST API with Node.js & Express
 - ⚡ Data Fetching & Caching via TanStack Query
-- 🤖 CodeRabbit for PR Analysis & Code Optimization
-- 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Deployment on Sevalla (free-tier friendly)
+
 
 ---
 
